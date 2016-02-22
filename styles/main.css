@@ -10,6 +10,8 @@ li {
     padding-right: 25px;
         }
 .btn{
+    font-family: verdana;
+    font-size: 1em;
     border:1px solid #a7bccf;
     color:black;
     background-color:#a7bccf;
